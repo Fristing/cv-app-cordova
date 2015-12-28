@@ -1,0 +1,33 @@
+/* Empty. Add your own CSS if you like */
+.icon-2x{
+  font-size: 200%;
+}
+.icon-3x{
+  font-size: 300%;
+}
+.icon-4x{
+  font-size: 400%;
+}
+.icon-5x{
+  font-size: 500%;
+}
+.ng-invalid.ng-dirty{
+ border-color : red;
+}
+.item-icon-left ion-spinner {
+  float: left;
+  margin-left: -2.7em;
+  margin-right: 0em;
+  margin-top: -0.2em;
+ }
+
+.spinner svg {
+  width: 28px;
+  height: 28px;
+  stroke: #999;
+  fill: #999;
+}
+
+.icon-grey{
+  color : #444;
+}
