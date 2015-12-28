@@ -1,2 +1,2 @@
-C:\Users\qlaff\Documents\AppliCordova\myApp\platforms\android\build\intermediates\classes\debug
-C:\Users\qlaff\Documents\AppliCordova\myApp\platforms\android\build\intermediates\pre-dexed\debug\classes-15bc4dd4256e23c2a462665e4b202cd08ca2a44d.jar
+C:\Users\qlaff\Documents\Git\myApp\platforms\android\build\intermediates\classes\debug
+C:\Users\qlaff\Documents\Git\myApp\platforms\android\build\intermediates\pre-dexed\debug\classes-d6e0295847a504e4a3335118fb074870c0a10b26.jar

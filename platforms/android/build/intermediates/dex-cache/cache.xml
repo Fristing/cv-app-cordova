@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\qlaff\Documents\Git\myApp\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03f301a09817e18d260b298298139d4043c07dbf">
+        <dex dex="C:\Users\qlaff\Documents\Git\myApp\platforms\android\build\intermediates\pre-dexed\debug\classes-d6e0295847a504e4a3335118fb074870c0a10b26.jar" />
+    </item>
+    <item
         jar="C:\Users\qlaff\Documents\AppliCordova\myApp\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\classes.jar"
         jumboMode="false"
         revision="23.0.2"
