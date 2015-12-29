@@ -39,10 +39,10 @@
     <splash density="port-hdpi" src="resources\android\splash\drawable-port-hdpi-screen.png" />
     <name>Quentin Laffont</name>
     <description>
-        An Ionic Framework and Cordova project.
+        Application Officiel du Développeur Quentin Laffont
     </description>
-    <author email="you@example.com" href="http://example.com.com/">
-      Your Name Here
+    <author email="contact@qlaffont.com" href="http://qlaffont.com/">
+      Quentin Laffont
     </author>
     <content src="index.html" />
     <access origin="*" />

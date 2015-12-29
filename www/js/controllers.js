@@ -29,16 +29,15 @@ angular.module('starter.controllers', ['ionic'])
 
 
       <!-- Envoie les données -->
+      //Vos données
       var FormData = {
-        c_name : this.contact.pnom+" "+this.contact.nom,
-        c_email : this.contact.email,
-        c_message : this.contact.message
+
       };
 
 
       var request = $http({
           method: "post",
-          url: "http://qlaffont.com/assets/php/contactForm.php",
+          url: "Votre Url",
           data: Object.toparams(FormData),
           headers: { 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8' }
       });
