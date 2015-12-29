@@ -52,13 +52,13 @@ module.exports = [
 module.exports.metadata = 
 // TOP OF METADATA
 {
-    "cordova-plugin-console": "1.0.2",
     "cordova-plugin-device": "1.1.0",
     "cordova-plugin-splashscreen": "3.0.0",
     "cordova-plugin-statusbar": "2.0.0",
     "cordova-plugin-whitelist": "1.2.0",
     "ionic-plugin-keyboard": "1.0.8",
-    "cordova-plugin-inappbrowser": "1.1.1"
+    "cordova-plugin-inappbrowser": "1.1.1",
+    "cordova-plugin-console": "1.0.2"
 }
 // BOTTOM OF METADATA
 });
